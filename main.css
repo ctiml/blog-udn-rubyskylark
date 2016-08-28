@@ -1,0 +1,16 @@
+#container {
+  margin: 10px 0 10px 0;
+  padding: 0;
+}
+.img {
+  width: 3em;
+}
+.title {
+  font-size: 1.2em;
+}
+.tag {
+  font-size: 0.9em;
+}
+.time {
+  font-size: 0.7em;
+}
