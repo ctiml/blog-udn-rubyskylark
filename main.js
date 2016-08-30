@@ -3,7 +3,7 @@ $(function() {
     "order": [[ 5, "desc" ]],
     "ajax": "data_dt.json",
     "searchHighlight": true,
-    "pageLength": 100,
+    "pageLength": 50,
     "lengthMenu": [[50, 100, 500, 1000, -1], [50, 100, 500, 1000, "All"]],
     "columnDefs": [
       {
