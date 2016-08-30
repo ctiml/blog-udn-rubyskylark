@@ -7,7 +7,7 @@ $(function() {
     "lengthMenu": [[50, 100, 500, 1000, -1], [50, 100, 500, 1000, "All"]],
     "columnDefs": [
       {
-        "targets": [0, 3],
+        "targets": [0, 1, 3],
         "visible": false,
         "searchable": false
       },
